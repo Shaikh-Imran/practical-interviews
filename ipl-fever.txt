@@ -1,0 +1,9 @@
+Sachin Tendulkar, 100
+Ms Dhoni, 150
+Kohli, 200
+Sachin Tendulkar, 120
+Kohli, 98
+Ms Dhoni, 58
+Rohit Sharma, 220
+Kapil Dev, 320
+Rahul Dravid, 340
