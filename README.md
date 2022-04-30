@@ -8,7 +8,7 @@
 
 - 1st layer is the type of interview. For now For now, I am only adding coding exercise. But feel free to contribute other parts. Such as SQL or System Design.
 - 2nd layer is level of difficulty. I wasn't sure how we can separate the levels, so I gae numbers instead of position. `level-1` means easy and can be asked to a fresher. `level-2` can be asked to SDE2 and so on.
-- 3rd layer is the actual problem statement inside dedicated `.md` file. `.MD` file represent the question or problem statements.
+- 3rd layer is the actual problem statement inside dedicated `README.md` file. `.MD` file represent the question or problem statements. name the file `README.md` as on GitHub it directly opens the file once clicked on the containing folder
 
 ## Output is not the only Thing
 
