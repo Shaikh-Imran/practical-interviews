@@ -1,0 +1,10 @@
+1650435195951|Iron Man|keyboard|79201|pc|95476|keyboard|56961
+1650608923156|Batman|keyboard|50346|keyboard|83255|tablet|48383|pc|17080
+1650488305025|Guardian of the Galaxy|tablet|29921
+1650561347156|Thanos|keyboard|22918
+1650703523424|Dr. Strange|pc|15999|monitor|11661|monitor|14778
+1650823668795|Spider-Man|tablet|17557
+1650598505204|Shaktiman|headphone|33735|headphone|18276|monitor|45722|keyboard|76707
+1651134395284|Chacha Chaudhary|keyboard|9705|pc|72091
+1650886421452|Joker|pc|65753|keyboard|95093|headphone|97112
+1650665589157|Superman|tablet|23912|monitor|62854|tablet|91558|phone|9917
