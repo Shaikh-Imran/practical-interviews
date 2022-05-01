@@ -1,0 +1,15 @@
+Virat Kohli|Batsman|120 
+Sachin Tendulkar|Batsman|200
+Zahir Khan|Bowler|7 
+MS Dhoni|Batsman|120
+Bumrah|Bowler|7
+Rohit Sharma|Batsman|211
+Virat Kohli|Batsman|130 
+Bumrah|Bowler|7
+Pandya|Batsman|50 
+Pandya|Bowler|1
+Sachin Tendulkar|Batsman|130
+MS Dhoni|Batsman|120
+Pandya|Bowler|8
+Zahir Khan|Bowler|6
+Rohit Sharma|Batsman|180 
